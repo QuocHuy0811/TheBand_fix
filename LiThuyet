@@ -1,0 +1,23 @@
+Thực hành số 1: Tạo web The Band
+    1. Phân tích
+        - Header
+        - Slider
+        - Content
+            + About : giới thiệu
+            + Tour
+            + Contact
+            + Image
+        - Footer
+    2. Dựng base
+    3. Xây dựng từng phần theo phân tích
+    4. Hoàn thiện
+
+Những thành phần thường gặp trên giao diện website:
+    1. Header (Đầu trang)
+    2. Navigation (Điều hướng): Nằm trên thanh điều hướng như Home, File, .....
+    3. Breadcrumb : chỉ vị trí hiện tại : Khóa học -> HTML, CSS -> Video 30
+    4. Sidebar : Thanh bên trái hoặc phải màn hình : Thanh hiển thị Trang chủ, thịnh hànhm đăng ký trên YTB
+    5. Slider : Hình ảnh(video, chữ) chạy/trượt trên web
+    6. Content (Nội dung chính)
+    7. Banner (Ảnh quảng cáo)
+    8. Footer (Chân trang)
